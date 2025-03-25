@@ -113,7 +113,7 @@ Mostrar na tela, de forma clara, o resultado da comparação, incluindo:
     // inserção direta de valores das variáveis para teste das lógicas
     // Carta2
     estado2 = 'B';
-    cod[4] = 'B02';
+    cod[4] = "B02";
     nome_cidade[50] = "Rio de Janeiro";                           
     populacao2 = 6748000;
     area2 = 1200.25;
